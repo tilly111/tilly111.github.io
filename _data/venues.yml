@@ -1,0 +1,6 @@
+# Maps the `abbr` field of a BibTeX entry to a venue link and badge color.
+# Example:
+# "SENSORS":
+#   url: https://ieee-sensors.org/
+#   color: "#00369f"
+{}

@@ -1,0 +1,6 @@
+# Maps co-author last names (lowercase) to their web pages, so jekyll-scholar links them in the publication list.
+# Example:
+# "hamann":
+#   - firstname: ["Heiko", "H."]
+#     url: https://www.cps.uni-konstanz.de/cyber-physical-systems/team/
+{}
