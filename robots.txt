@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tilly111.github.io/sitemap.xml
